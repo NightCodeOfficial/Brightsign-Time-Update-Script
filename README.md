@@ -42,7 +42,7 @@ This script is for cases in which you are able to log into the BrightSign diagno
    - Copy the JavaScript code to your clipboard.
    
 5. Open the console in your browser 
-   - Chrome `ctrl+shift+j`
+   - Chrome `ctrl + shift + j`
    - Firefox `ctrl + shift + k`
 
 
