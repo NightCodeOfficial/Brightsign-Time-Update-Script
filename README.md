@@ -29,7 +29,7 @@ This script helps you update the time on your BrightSign device using the system
 
 2. Run the script:
    `
-   python brightsign_time_updater.py
+   python time_update_script_generator.py
    `
 
 3. Enter the IP address of your BrightSign player when prompted:
